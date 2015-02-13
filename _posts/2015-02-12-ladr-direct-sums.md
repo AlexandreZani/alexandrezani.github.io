@@ -51,3 +51,5 @@ $$ x + 0 = c_0 $$ and $$ x' + 0 = c_0 $$ and $$ 0 + y = c_1 $$ and $$ 0 + y' = c
 $$ x = x' = c_0 $$ and $$ y = y' = c_1 $$
 
 Therefore, the proposition we started with is incorrect and $$ U + W $$ is a direct sum.∎
+
+Thanks to [picado](http://www.reddit.com/user/picado) and [lurking_quietly](http://www.reddit.com/user/lurking_quietly) for seeing the missing step in the last version of this post.
