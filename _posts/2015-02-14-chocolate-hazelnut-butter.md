@@ -35,4 +35,4 @@ would turn out without.
 - Finally, add in honey until you like the taste.
 
 The result is somewhat crunchy which I normally shy away from, but I am
-enjoying the texture and looking forward to further tune the flavor.
+enjoying the texture and looking forward to further tuning the flavor.
