@@ -24,6 +24,9 @@ Warning: I actually measured nothing so those are estimates
 - 2 oz of 70% dark chocolate. (Scharffenberger's baking bar)
 - 1-2 tablespoons of honey
 
+Recipes online recommended some Canola oil, but I decided to see how things
+would turn out without.
+
 #### Process ####
 
 - This recipe was dependent upon the awesome power of the Vitamix.
@@ -31,4 +34,5 @@ Warning: I actually measured nothing so those are estimates
 - When the nut butter is flowing, toss in the chocolate.
 - Finally, add in honey until you like the taste.
 
-Recipes online recommended some Canola oil, but I tried without and it worked.
+The result is somewhat crunchy which I normally shy away from, but I am
+enjoying the texture and looking forward to further tune the flavor.
