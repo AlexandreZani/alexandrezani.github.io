@@ -1,12 +1,13 @@
 # Site settings
 title: Abstracted Away
-email: alexandre.zani@gmail.com
+email: alexandre dot zani (at) gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
-  Math, tech and whatever else I choose to write about.
+  A mish-mash of math, technology, food and apologies for not writing enough.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://abstractedaway.com/" # the base hostname & protocol for your site
+url: "http://alexandrezani.github.io/" # the base hostname & protocol for your site
 github_username:  AlexandreZani
 reddit_username:  AlexandreZani
+twitter_username: AlexandreZani
 
 # Build settings
 markdown: kramdown
