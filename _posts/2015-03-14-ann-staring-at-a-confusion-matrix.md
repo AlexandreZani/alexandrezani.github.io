@@ -7,7 +7,8 @@ tags:
 ---
 Today, I spent some time implementing a simple feed-forward artificial neural
 network in Python using numpy. After feeding it some simple data, I pulled up
-the MNIST handwritten digits dataset and threw my (slow and buggy) code at it.
+the [MNIST handwritten digits dataset|http://yann.lecun.com/exdb/mnist/] and
+threw my (slow and buggy) code at it.
 
 I used a single hidden layer composed of 78 neurons and a logistic activation
 function. (Both decisions were the result of carefully scrutinizing the thin air
